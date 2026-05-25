@@ -10,8 +10,7 @@
 2 Link: [https://note-takeing-app.netlify.app](note-takeing-app.netlify.app) 
 
 ## 🎥 Project Preview
-https://github.com/user-attachments/assets/a097c4ff-9dde-4c51-808c-f8b06cf52eb3
-
+https://github.com/user-attachments/assets/95222837-710e-4acf-977e-8cf86fc62652
 # 📝 Quick Notes App
 
 A modern and responsive Note-Taking Application built using **Vanilla JavaScript**, HTML, and CSS.  
