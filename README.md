@@ -10,6 +10,7 @@
 2 Link: [https://note-takeing-app.netlify.app](note-takeing-app.netlify.app) 
 
 ## 🎥 Project Preview
+https://github.com/user-attachments/assets/a097c4ff-9dde-4c51-808c-f8b06cf52eb3
 
 # 📝 Quick Notes App
 
