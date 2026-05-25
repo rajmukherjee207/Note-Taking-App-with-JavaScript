@@ -7,7 +7,7 @@
 ## 📱 Live Demo
 🔗 **Project Link:** [https://note-taking-app.wasmer.app/](https://note-taking-app.wasmer.app/)
 
-2 Link: [https://to-do-list-made.netlify.app/](https://to-do-list-made.netlify.app/) 
+2 Link: [https://note-takeing-app.netlify.app](note-takeing-app.netlify.app) 
 
 ## 🎥 Project Preview
 
