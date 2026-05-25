@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📱 Live Demo
-🔗 **Project Link:** [https://to-do-list-app.wasmer.app/](https://to-do-list-app.wasmer.app/)
+🔗 **Project Link:** [https://note-taking-app.wasmer.app/](https://note-taking-app.wasmer.app/)
 
 2 Link: [https://to-do-list-made.netlify.app/](https://to-do-list-made.netlify.app/) 
 
